@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "servermod01",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "modmodmodmodmod",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "skyserversmppp.aternos.me",
+    "port": 40891,
     "version": "",
     "try-creative": false
   },
